@@ -1,0 +1,23 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/StepanSaribekov6/frontend-project-44#readme",
+  "bugs": {
+    "url": "https://github.com/StepanSaribekov6/frontend-project-44/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StepanSaribekov6/frontend-project-44.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "js.js",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
