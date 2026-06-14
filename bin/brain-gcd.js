@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import runGame from '../src/index.js';
 
 const description = 'Find the greatest common divisor of given numbers.';
